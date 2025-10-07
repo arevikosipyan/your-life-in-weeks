@@ -67,7 +67,7 @@ This app can be used to raise self-awareness, help with goal-setting, and gain p
 ## example
 A user born on December 2, 2000, from Uzbekistan sees that he/she has lived approximately 1274 weeks out of an average 3744 (72 years). The chart starkly demonstrates that he/she has passed a third of his/her lifespan – encouraging reflection and renewed motivation for the next stage of his/her life.
 
-![example chart](../project/images/example.png)
+![example chart](../cs50p-project/images/example.png)
 
 ## limitations
 Current constraints reflect the project's demo-stage and include:
