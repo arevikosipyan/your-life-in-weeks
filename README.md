@@ -9,4 +9,4 @@ Our project follows a functional programming approach and makes efficient use of
 
 ## Certificate
 
-![cs50 p certificate](https://certificates.cs50.io/fa7528ee-efa4-4d18-9ec2-766b13aa1bb4.pdf?size=letter)
+![cs50 p certificate](https://certificates.cs50.io/fa7528ee-efa4-4d18-9ec2-766b13aa1bb4.png?size=letter)
